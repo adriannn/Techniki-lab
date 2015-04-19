@@ -1,6 +1,7 @@
 #Notacja MARKDOWN H1  👀
 
 Autor: <nruchlewicz@sigma.ug.edu.pl> Natalia Ruchlewicz
+``Adres e-mail podaje się w < > ``
 ᨕ ௌ 🔪 📯💜    💼
 
 ## Techniki Internetowe H2 🚁
