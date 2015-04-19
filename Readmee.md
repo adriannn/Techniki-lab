@@ -1,5 +1,6 @@
 #Notacja MARKDOWN H1  👀
 
+Autor: <nruchlewicz@sigma.ug.edu.pl> Natalia Ruchlewicz
 ᨕ ௌ 🔪 📯💜    💼
 
 ## Techniki Internetowe H2 🚁
